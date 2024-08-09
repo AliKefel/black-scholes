@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 
 
 
+
 st.set_page_config(layout="wide")
 
 st.sidebar.title("PARAMETERS📊")
